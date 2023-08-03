@@ -1,4 +1,4 @@
-<h1 align="left justify">Hi 👋, I'm Golam Mohiuddin </h1>
+<h1 align="left justify">Hi 👋, I'm Golam Mohiuddin Niloy</h1>
 <a href="https://github.com/Niloy-24">
   <img align="right" alt="Golam Mohiuddin Niloy's Github" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/github.svg" />
 </a>
@@ -11,12 +11,13 @@
   <img align="right" alt="Niloys's Email" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/mail.png" />
 </a>
 
+<!--
 <div align="center">
 
 ![Niloy-24](gitartwork.svg)
 
 </div>
-
+-->
 ---
 ### Programming Languages & Framework 
 <a href="https://www.djangoproject.com/" target="_blank" rel="no-referrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
