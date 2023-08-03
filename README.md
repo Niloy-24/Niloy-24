@@ -1,21 +1,15 @@
-
-<a href="https://github.com/mhasanrabbi">
-  <img align="right" alt="Mahmud's Github" width="32px" src="https://raw.githubusercontent.com/mhasanrabbi/mhasanrabbi/main/github.svg" />
-</a>
-<a href="https://twitter.com/mhmdhasanrabbi">
-  <img align="right" alt="Mahmud's Twitter" width="32px" src="https://raw.githubusercontent.com/mhasanrabbi/mhasanrabbi/main/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/hxicso">
-  <img align="right" alt="Mahmud's Facebook" width="32px" src="https://raw.githubusercontent.com/mhasanrabbi/mhasanrabbi/main/facebook.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mahmudhasanrabbi/">
-  <img align="right" alt="Mahmuds's LinkedIn" width="32px" src="https://raw.githubusercontent.com/mhasanrabbi/mhasanrabbi/main/linkedin.svg" />
-</a>
-<a href="mailto: mhmdhasanrabbi@gmail.com">
-  <img align="right" alt="Mahmud's Email" width="32px" src="https://raw.githubusercontent.com/mhasanrabbi/mhasanrabbi/main/mail.png" />
+<h1 align="left justify">Hi 👋, I'm Golam Mohiuddin Niloy</h1>
+<a href="https://github.com/Niloy-24">
+  <img align="right" alt="Golam Mohiuddin Niloy's Github" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/github.svg" />
 </a>
 
-<img src="https://raw.githubusercontent.com/mhasanrabbi/mhasanrabbi/main/wave.gif" width="30px">
+<a href="https://www.linkedin.com/in/golam-mohiuddin-niloy/">
+  <img align="right" alt="Niloys's LinkedIn" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/linkedin.svg" />
+</a>
+
+<a href="mailto: niloyaryan@gmail.com">
+  <img align="right" alt="Niloys's Email" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/mail.png" />
+</a>
 
 <div align="center">
 
