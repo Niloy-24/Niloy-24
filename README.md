@@ -1,4 +1,3 @@
-<h1 align="left justify">Hi 👋, I'm Golam Mohiuddin Niloy</h1>
 <a href="https://github.com/Niloy-24">
   <img align="right" alt="Golam Mohiuddin Niloy's Github" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/github.svg" />
 </a>
@@ -11,6 +10,7 @@
   <img align="right" alt="Niloys's Email" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/mail.png" />
 </a>
 
+
 <div align="center">
 
 ![Niloy-24](gitartwork.svg)
@@ -18,7 +18,9 @@
 </div>
 
 ---
+<h1 align="center">Hi 👋, I'm Golam Mohiuddin Niloy</h1>
 
+---
 ### Languages
 
 ![Django](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
