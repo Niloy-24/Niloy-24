@@ -11,6 +11,8 @@
   <img align="right" alt="Niloys's Email" width="32px" src="https://raw.githubusercontent.com/Niloy-24/Niloy-24/main/mail.png" />
 </a>
 
+![gitartwork](gitartwork.svg)
+
 <!--
 <div align="center">
 
