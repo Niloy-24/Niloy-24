@@ -47,9 +47,9 @@
 ---
 
 <div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niloy-24&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Niloy-24&theme=gotham&show_icons=true&locale=en" alt="niloy-24" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niloy-24&theme=dracula&show_icons=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niloy-24&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Niloy-24&theme=gotham&show_icons=true&locale=en" alt="niloy-24" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niloy-24&theme=dracula&show_icons=true" />
 </div>
 
 
