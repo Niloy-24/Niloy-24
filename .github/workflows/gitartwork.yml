@@ -15,4 +15,4 @@
             user_name: Golam Mohiuddin Niloy
             # Text on contribution graph 
             text: Niloy
-       - uses: jasineri/simple-push-action@v1
+       - uses: Niloy/simple-push-action@v1
