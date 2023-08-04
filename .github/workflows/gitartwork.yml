@@ -12,7 +12,7 @@
        - uses: Niloy-24/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: Golam Mohiuddin Niloy
+            user_name: Niloy-24
             # Text on contribution graph 
             text: Niloy
        - uses: Niloy/simple-push-action@v1
